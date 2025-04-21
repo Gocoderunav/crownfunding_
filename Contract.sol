@@ -26,7 +26,7 @@ contract Crowdfunding {
         require(msg.sender == owner, "Only owner can withdraw");
         require(block.timestamp >= deadline, "Campaign still ongoing");
         require(totalRaised >= goal, "Funding goal not reached");
-
+       // Transfer all raised funds to the campaign owner if goal is met and deadline is passed
         payable(owner).transfer(address(this).balance);
     }
 
