@@ -17,6 +17,8 @@ To empower creators, innovators, and startups to raise funds transparently and s
 - Implement NFT rewards or badges for contributors.
 - Allow multiple campaigns and campaign discovery features.
 - Use Chainlink for external data like currency conversion or deadlines.
+-contract details:
+![image](https://github.com/user-attachments/assets/158eb1a1-16ad-4498-8873-2c4cb6adfe69)
 
 ---
 
