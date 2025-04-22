@@ -13,7 +13,7 @@ contract Crowdfunding {
         goal = _goal;
         deadline = block.timestamp + (_durationInDays * 1 days);
     }
-
+// Allows users to contribute Ether to the campaign before the deadline
     function contribute() external payable {
         require(block.timestamp < deadline, "Campaign ended");
         require(msg.value > 0, "Contribution must be greater than zero");
