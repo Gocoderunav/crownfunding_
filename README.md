@@ -15,7 +15,7 @@ To empower creators, innovators, and startups to raise funds transparently and s
 - Integrate front-end using React.js , Next.js and Web3.js or Ethers.js.
 - Add milestone-based funding with partial withdrawals.
 - Implement NFT rewards or badges for contributors.
-- Allow multiple campaigns and campaign discovery features.
+- Allow multiple campaigns, campaign discovery features and many more.
 - Use Chainlink for external data like currency conversion or deadlines.
 -contract details:
 ![image](https://github.com/user-attachments/assets/158eb1a1-16ad-4498-8873-2c4cb6adfe69)
