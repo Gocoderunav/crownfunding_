@@ -1,7 +1,7 @@
 # 🪙 Crowdfunding Smart Contract DApp
 
 ## 📘 Project Description 
-This project is a simple Ethereum-based crowdfunding DApp built using Solidity. It enables users to contribute ETH towards a funding goal within a specified time window. The owner can withdraw funds if the goal is met, otherwise contributors can claim refunds.
+This project is a simple Ethereum-based crowdfunding DApp built using Solidity. It enables users to contribute ETH towards a funding goal within a specified time window. The owner can withdraw funds if the goal is met, otherwise contributorrs can claim refunds.
 
 ## 🎯 Project Vision ##
 To empower creators, innovators, and startups to raise funds transparently and securely without intermediaries, leveraging blockchain's decentralization and trustless environment.
